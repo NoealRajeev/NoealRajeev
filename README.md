@@ -59,7 +59,7 @@
 ### LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/i4zI5NMnIH?theme=light&ext=heatmap" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/i4zI5NMnIH?theme=light&ext=heatmap&title=Noeal%20Rajeev" alt="LeetCode Stats">
 </p>
 
 ### Recent Activity
@@ -79,5 +79,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/NoealRajeev/NoealRajeev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
+  <img src="https://github.com/NoealRajeev/NoealRajeev/raw/gh-pages/snake/snake.svg" alt="snake">
 </p>
