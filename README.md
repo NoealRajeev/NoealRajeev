@@ -7,12 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NoealRajeev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=1000&pause=1000&center=true&random=true&width=435&lines=Full+stack+Developing.;Game+Developing.;IoT" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/NoealRajeev"><img src="https://img.shields.io/github/followers/NoealRajeev?label=Followers&style=social" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/noeal-rajeev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
 </p>
