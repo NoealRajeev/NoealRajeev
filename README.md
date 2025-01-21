@@ -12,9 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats" type="_blank"><img src="https://github-readme-streak-stats.herokuapp.com?user=NoealRajeev&theme=dark" alt="GitHub Streak" /></a>
+  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=NoealRajeev&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NoealRajeev&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&no-bg=true&no-frame=true&row=2&column=3" alt="Trophies">
 </div>
