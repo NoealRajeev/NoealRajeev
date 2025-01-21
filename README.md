@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NoealRajeev&hide_border=true&theme=transparent" /> 
+  <a href="https://git.io/streak-stats" type="_blank"><img src="https://github-readme-streak-stats.herokuapp.com?user=NoealRajeev&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 <div align="center">
