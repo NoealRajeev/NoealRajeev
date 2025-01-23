@@ -66,6 +66,4 @@
 
 
 </div>
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+![Snake animation](https://raw.githubusercontent.com/NoealRajeev/NoealRajeev/output/github-contribution-grid-snake-dark.svg)
