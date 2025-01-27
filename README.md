@@ -2,13 +2,19 @@
 <h3 align="center">A passionate developer with a knack for solving complex problems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NoealRajeev&label=Profile%20views&color=0e75b6&style=flat" alt="NoealRajeev" />
-  <a href="https://leetcode.com/u/i4zI5NMnIH/"><img src="https://img.shields.io/badge/dynamic/json?style=flat&label=LeetCode%20Solves&query=solved&url=https%3A%2F%2Fleetcode.com%2Fu%2Fi4zI5NMnIH%2F&logo=leetcode" alt="LeetCode"/></a>
+  <a href="https://github.com/NoealRajeev"><img src="https://img.shields.io/github/followers/NoealRajeev?label=Followers&style=social" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/noealrajeevthaleeparambil/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/NoealRajeev"><img src="https://img.shields.io/github/followers/NoealRajeev?label=Followers&style=social" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/noeal-rajeev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+<h2>👨‍💻 About Me</h2>
+<ul>
+  <li>🚀 <strong>CTO of Breakthrough</strong>, building innovative solutions to bridge real-world challenges with technology.</li>
+  <li>🛠️ Skilled in <strong>IoT, AR/VR development, and scalable system design</strong>.</li>
+  <li>🌱 Currently enhancing my expertise in <strong>VR development</strong> and contributing to open-source with the <a href="https://github.com/Breakthrough-pvt-ltd/flutter_ar_vr" target="_blank"><strong>flutter_ar_vr plugin</strong></a>.</li>
+  <li>💡 I’m passionate about <strong>building tools, mentoring developers, and exploring emerging tech</strong>.</li>
+  <li>📫 Reach me: <a href="mailto:noealrajeev987@gmail.com">noealrajeev987@gmail.com</a>.</li>
+</ul>
 </p>
 
 <p align="center">
@@ -56,14 +62,6 @@
 | nodejs | Git | Docker | Kubernetes | Pytest | Swagger | Postman |
 |----------|----------|----------|----------|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>
-
-
-### OS:
-
-| Windows | Ubuntu | Kali |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
-
 
 </div>
 <p align="center">
